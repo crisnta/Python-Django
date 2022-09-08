@@ -36,8 +36,6 @@ INSTALLED_APPS = [
     'newsletters',
     'dashboard'
 
-    'storages'
-    
 ]
 TAILWIND_APP_NAME = 'theme'
 INTERNAL_IPS = [
